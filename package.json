@@ -25,6 +25,6 @@
         "vue-template-compiler": "^2.6.8"
     },
     "dependencies": {
-        "object-path": "^0.11.5"
+        "object-path": "^0.11.6"
     }
 }
